@@ -45,7 +45,7 @@
   check(a, "Hallo");
   isEqual(c, processed);
 }
-// 05//////////////////////////////////////////
+// 05///////////////////////////////////////////
 {
   var a = "http://it-club-oberland.ch";
   var c = "You can access our page with (http://it-club-oberland.ch) every time you wish!";
